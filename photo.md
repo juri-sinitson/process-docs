@@ -1,167 +1,236 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [About this document](#about-this-document)
-   * [What is this document?](#what-is-this-document)
-   * [What is this document not?](#what-is-this-document-not)
-- [General](#general)
-   * [Goals](#goals)
+   * [Motivation](#motivation)
+   * [What's not in this document?](#whats-not-in-this-document)
+- [Goal-Oriented approach](#goal-oriented-approach)
+- [Highest-Level Goals or "Why Do This?"](#highest-level-goals-or-why-do-this)
+   * [NOTE!](#note)
    * [Achieved by](#achieved-by)
 - [Phase "before the shooting"](#phase-before-the-shooting)
-   * [Goals](#goals-1)
+   * [Goals](#goals)
    * [Achieved by](#achieved-by-1)
 - [Phase "by the shooting"](#phase-by-the-shooting)
-   * [Goals](#goals-2)
+   * [Goals](#goals-1)
    * [Achieved by](#achieved-by-2)
+      + [NOTE!](#note-1)
 - [Phase "select"](#phase-select)
-   * [Goals](#goals-3)
+   * [Goals](#goals-2)
    * [Achieved by](#achieved-by-3)
-      + [NOTE!](#note)
 - [Phase "processing"](#phase-processing)
-   * [Goals](#goals-4)
+   * [Goals](#goals-3)
    * [Achieved by](#achieved-by-4)
+      + [Bulk renaming](#bulk-renaming)
+      + [Processing the source photos](#processing-the-source-photos)
 - [Phase "store"](#phase-store)
-   * [Goals](#goals-5)
+   * [Goals](#goals-4)
    * [Achieved by](#achieved-by-5)
 - [Phase "publish"](#phase-publish)
-   * [Goals](#goals-6)
+   * [Goals](#goals-5)
    * [Achieved by](#achieved-by-6)
-   * [Security practices in social media](#security-practices-in-social-media)
-      + [Goals](#goals-7)
+   * [Security considerations for social media](#security-considerations-for-social-media)
+      + [Goals](#goals-6)
       + [Achieved by](#achieved-by-7)
 
 <!-- TOC end -->
 
 <!-- TOC --><a name="about-this-document"></a>
 # About this document
-<!-- TOC --><a name="what-is-this-document"></a>
-## What is this document?
-This goal of this document is to describe my making of photos in an abstract process oriented way.
-This is done in phases (from preparing to shoot until the publishing), why I do those phases and 
-how I achieve the goals. This abstract description strives to be: 
-1. easy readable
-1. well understandable especially for people not dealing with photography
-1. compatible with every digital camera which
-    1. is capable of making continuous shooting 
-    1. supports tweaking the strength of background blurryness (aka aperture)
-    1. is capable to shoot in a format convenient for a digital processing (aka
+<!-- TOC --><a name="motivation"></a>
+## Motivation
+The purpose of this document is to demonstrate an approach to a process in an abstract, goal-oriented manner. 
+The process is divided into phases, each with its own goals. In this document, the act of taking photos is used 
+as an example of such a process. It is broken down into phases, from preparation for shooting to publishing.
+The objectives of this document are as follows:
+1. It is easy to read
+1. It is easily understandable, even for readers not familiar with the topic
+1. The process description is as abstract as possible. In this example, it is compatible with any digital camera that supports:
+    1. continuous shooting 
+    1. adjustment of background blur strength (aka aperture adjustment)
+    1. a photo format convenient for a digital processing (aka
 raw image format)
+    1. protection of user-selected photos from deletion
+    1. bulk deletion of photos
 
-<!-- TOC --><a name="what-is-this-document-not"></a>
-## What is this document not?
-This document is very process oriented and thus kept an very abstract level. Thus there are no
-technical details like which camera, which lens, which processing software, which raw format,
-etc. Because of the reason above there are also no concrete instructions of how the goals are 
-achieved exactly.
+<!-- TOC --><a name="whats-not-in-this-document"></a>
+## What's not in this document?
+This document is maintained at a very abstract level. Therefore, it does not include deep technical details of the process. Specific instructions on how the goals are achieved are also beyond the scope of this document. Additionally, there are no diagrams included; currently, the text is the sole source of information. The glossary was omitted for the sake of simplicity. Instead, simple, abstract, and widely used terms are employed throughout.
 
-<!-- TOC --><a name="general"></a>
-# General
-<!-- TOC --><a name="goals"></a>
-## Goals
-1. Joy
-1. Exchange with others
-1. Memories
+The topic of processing, editing and selecting with AI is also beyond the scope of this document. While it can be used in this process, it is not essential.
+
+<!-- TOC --><a name="goal-oriented-approach"></a>
+# Goal-Oriented approach
+Lower-level goals within the process serve to support higher-level goals. A lower-level goal may be replaced by another if it serves the higher-level goal more effectively. If a process phase no longer has any goals, it should be removed from the process or modified/improved accordingly. Similarly, a step aimed at achieving a phase goal may be replaced with a more efficient alternative.
+
+<!-- TOC --><a name="highest-level-goals-or-why-do-this"></a>
+# Highest-Level Goals or "Why Do This?"
+In the case of taking photos, the following high-level goals are applied
+
+1. Joy - especially for family members, social media followers and personal satisfaction
+2. Sharing and exchange with other photographers
+3. Preserving memories
+
+<!-- TOC --><a name="note"></a>
+## NOTE!
+Highest-level goals should be defined first, before any initiation or acquisition of hardware or software equipment. Also note that artistic value is - and will remain - a very important goal. However, in this example, it serves the higher-level goals, particularly joy.
 
 <!-- TOC --><a name="achieved-by"></a>
 ## Achieved by
-1. Each photo should be unique and have an artistic value, the rest is deleted (the **Less is more**-Principle). 
-1. The photos are published to different channels. 
-1. The processing and publishing time is saved.
+1. Each photo should be unique and have artistic value; the rest are deleted
+1. Photos are published through various digital and analog channels, especially 
+   1. family messenger groups
+   1. social media
+   1. wallpapers on personal mobile and desktop devices
+   1. slide show devices at home and/or at relatives' home
+   1. large and small format print for the walls at home
+   1. yearly printed photo albums and calendars for relatives
+1. Time is saved in processing and publishing
 
 <!-- TOC --><a name="phase-before-the-shooting"></a>
 # Phase "before the shooting"
 
-<!-- TOC --><a name="goals-1"></a>
+<!-- TOC --><a name="goals"></a>
 ## Goals
-1. Find out the best motif
-1. Joy for all the participants when walking/hiking with other persons
+1. Identify the best motif
+1. Joy for all participants during walks or hikes with others
 
 <!-- TOC --><a name="achieved-by-1"></a>
 ## Achieved by
-Find out best best background motif (in the blurryness). Find out the best strength of the blurryness for the background motif.
+Identify the best background motif (within the blur). Determine the optimal level of background blur for that motif.
 
-When walking/hiking with other persons, let them wait spontaneously as less as possible. Remember the motifs where they have to wait and inform them timely. Try to stick with the (sub)group to not miss the conversation.
+When walking or hiking with others, minimize the need for spontaneous waiting. Remember which motifs require them to pause, and inform them in advance. Try to stay with the (sub)group to avoid missing out on conversations.
 
-When shooting a fast moving object(s) (e.g. dance or sports) or a (fast) transitioning object(s) (e.g. blowing on a dandelion), use continuous shooting. Trigger continuous shooting prematurely shortly before the relevant movement or transition begins.
+When photographing fast-moving subjects (e.g. dance or sports) or quickly transitioning scenes (e.g. blowing on a dandelion), use continuous shooting. Trigger it slightly before the key movement or transition begins. Note that some cameras support automatic premature continuous shooting, such as while focusing on the subject.
 
-In case of shooting e.g. a passing train choose the best perspective before the start.
+When photographing, for example, a passing train, choose the best perspective before the action starts.
 
 <!-- TOC --><a name="phase-by-the-shooting"></a>
 # Phase "by the shooting"
 
-<!-- TOC --><a name="goals-2"></a>
+<!-- TOC --><a name="goals-1"></a>
 ## Goals
-1. Save time and/or mental energy in the next process phases
+1. Save time and/or mental energy in the subsequent phases of the process
 
 <!-- TOC --><a name="achieved-by-2"></a>
 ## Achieved by
 1. Protect the best photos
-1. Delete current photo when the other photo taken e.g. in the current year will definitely win the comparison
-1. Delete the rest
+1. Delete a photo when a better one (e.g. taken in the current year) will clearly win the comparison
+1. Use bulk deletion to remove the remaining photos on the camera in one action
+
+<!-- TOC --><a name="note-1"></a>
+### NOTE!
+A motif should not be repeated. For example, when photographing a child in different poses, only the best pose, gaze, background blur,  lighting and shadows, etc. should be kept. The rest should be deleted.
 
 <!-- TOC --><a name="phase-select"></a>
 # Phase "select"
 
-<!-- TOC --><a name="goals-3"></a>
+<!-- TOC --><a name="goals-2"></a>
 ## Goals
-1. Filter out the best photos for most joy and to save time by the processing
+1. Filter out the best photos to maximize joy and save time during processing
 
 <!-- TOC --><a name="achieved-by-3"></a>
 ## Achieved by
-1. Copy the photos to the PC and compare similar motifs of the current year. Crate different dirs for every motif like `nature`, `train`, `family`, `architecture` etc to accelerate the comparison.
-2. If a new copied photo wins the comparison, leave it otherwise delete it
-
-<!-- TOC --><a name="note"></a>
-### NOTE!
-A motif should not repeat especially in the session. When e.g. the child is photographed in different poses, only the best pose, gaze, blurryness of the background, aperture, lights/shadows etc. is selected, the rest is deleted.
+1. Copy the photos to the desktop PC and compare similar motifs from the current year. Create separate folders for each recurring motif (e.g. `train`, `architecture`, `nuremberg-old-town`, etc.) to speed up the comparison process.
+2. If a newly copied photo wins the comparison, keep it; otherwise, delete it
 
 <!-- TOC --><a name="phase-processing"></a>
 # Phase "processing"
 
-<!-- TOC --><a name="goals-4"></a>
+<!-- TOC --><a name="goals-3"></a>
 ## Goals
+1. Speed up the next phase
 1. Increase the artistic value
 
 <!-- TOC --><a name="achieved-by-4"></a>
 ## Achieved by
-Each photo is processed digitally by applying a custom profile automatically and tweaking its parameters for every photo individually when necessary. Photos are processed in black and white. For artistic goals a combination with the color version might be made, e.g. making eyes very slightly in color for better observer focus. Only the most representative photos are processed fully in color. In case of fully color the colors might be harmonized, e.g. by blanking out the colors not suiting the rest of the photo. As a typical example a mixture of loud orange, yellow or blue winter jackets is usually not in harmony with a nature or an architecture motif. In this case the colors of those jackets are blanked or even replaced with their black and white version.
+<!-- TOC --><a name="bulk-renaming"></a>
+### Bulk renaming
+Before processing, the source photos should be bulk renamed, for example, in the following lowercase format:
+
+`yyyy-mm-dd_land-abbreviation_town-or-locality_description_original-name_addition.extension`.
+
+Example:
+
+Given multiple source files from `IMGP8990.DNG` to `IMGP9001.DNG`, after bulk renaming, the source files will be renamed as follows:
+
+From:
+
+`2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp8990.dng` 
+
+To: 
+
+`2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001.dng`
+
+The description and the addition are optional. In the example above, the addition was omitted.
+
+Note that bulk renaming is done by the appropriate software in one action, rather than manually renaming each file individually. Depending on the operating system and desktop environment, this software might be integrated into the file manager.
+
+<!-- TOC --><a name="processing-the-source-photos"></a>
+### Processing the source photos
+Each source photo is processed using software that applies a custom profile automatically. When necessary, the profile parameters are manually adjusted for each photo individually. Photos are typically processed by converting them to black and white. For artistic goals, a combination with the color layer of the same photo may be used - for example, slightly retaining the color in the eyes of a portrait to better draw the viewer’s focus.
+
+Only the most representative photos are fully processed in color. In such cases, colors may be harmonized - for instance, by 
+weakening or removing colors that clash with the overall composition. A common example is the presence of bright orange, yellow, or blue winter jackets, which often do not harmonize with nature or architectural scenes. In these situations, the jacket colors are either weakened or replaced with their black and white versions.
+
+Assuming the source files have meaningful names - for example, through the use of bulk renaming software - each process (by-)output file will then automatically carry the same meaningful name as its source file, with the appropriate extension (e.g. .jpg, .pp3, .jpg.out.pp3 or any other format depending on the by-output and the processing software used).
+
+For the source file:
+
+`2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001.dng`
+
+the resulting output will be:
+
+`2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001.jpg` 
+
+This output is the resulting (or “final”) photo, generally ready for publication. Additional publishing actions are likely when preparing the photo for a print or a social media channel.
+
+Its by-output (in this case, the profile used to produce the final photo) will be:
+
+`2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001.jpg.out.pp3` 
+
+Note that there may be complex cases, such as combining multiple resulting photos from the same source into a single resulting photo. Depending on the software used for processing the source file and for combining its outputs, the by-output may have the same extension as the resulting photo. In such cases, using a name addition may be appropriate - for example:
+
+`2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001_color-layer.jpg` 
+
+and, if applicable, its profile can then be renamed as follows
+
+`2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001_color-layer.jpg.out.pp3` 
 
 <!-- TOC --><a name="phase-store"></a>
 # Phase "store"
-<!-- TOC --><a name="goals-5"></a>
+<!-- TOC --><a name="goals-4"></a>
 ## Goals
-1. To joy later e.g by memories and printing
+1. Ensure the ability to reprocess a photo, especially for (large format) printing months or even years later
 
 <!-- TOC --><a name="achieved-by-5"></a>
 ## Achieved by
-1. The resulting photos are the output of processing and are stored separately from their source photos.
-1. The by-output of processing the source photos (the resulting processing profiles per photo, masks, additional layers, etc.) is stored together with the source photos and have similar name always beginning with date the in format yyyy-mm-dd.
-
+1. The resulting output (also referred to as the final photo) is stored separately from the source photos
+1. The by-output (especially individual processing profiles, if applicable, and any files used to combine multiple resulting outputs) is stored together with the source photos
 
 <!-- TOC --><a name="phase-publish"></a>
 # Phase "publish"
-<!-- TOC --><a name="goals-6"></a>
+<!-- TOC --><a name="goals-5"></a>
 ## Goals
-1. Digital joy (also by exchanging and getting badges like faves, likes, emojis, etc.)
-2. Print joy by DIN-A4-Albums or large format printings
+1. Digital enjoyment (including sharing and receiving reactions such as faves, likes, emojis, etc.)
+2. Enjoyment through printed formats
 
 <!-- TOC --><a name="achieved-by-6"></a>
 ## Achieved by
-1. Sharing the photos e.g. in messenger (family) groups
-2. Sharing the photos in social media
+1. Publishing via digital channels
+2. Publishing via analog channels
 
-<!-- TOC --><a name="security-practices-in-social-media"></a>
-## Security practices in social media
+<!-- TOC --><a name="security-considerations-for-social-media"></a>
+## Security considerations for social media
 
-<!-- TOC --><a name="goals-7"></a>
+<!-- TOC --><a name="goals-6"></a>
 ### Goals
-1. To avoid/reduce an (easy) prediction date of e.g. being not at home or being at certain place
-1. To avoid accidental position exposing e.g. of your home or your hosts home
-1. Avoid misuses
+1. To avoid or reduce the risk of making it (easy) to predict, for example, when you're not at home or are at a specific location
+1. To avoid accidentally revealing the location of your (or your hosts’) home
+1. To prevent misuse of shared content
 
 <!-- TOC --><a name="achieved-by-7"></a>
 ### Achieved by
-1. Omitting the date in the resulting photo if it's not safe to publish
-1. Omitting the the position coordinates in the resulting photo if it's not safe to publish
-1. Postponing the date of publishing if you visit e.g. your relatives at the same date(s) of the year 
-or during the same celebration(s)
-1. Thinking multiple times before publishing photos which children
+1. Omitting the date from the final photo if it’s not safe to publish
+1. Omitting the location from the final photo if it’s not safe to publish
+1. Postponing the publication date if the visit occurs on predictable days, such as annual holidays, celebrations, or recurring visits to relatives
+1. Carefully considering whether to publish photos that include children
