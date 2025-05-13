@@ -5,7 +5,7 @@
    * [What's not in this document?](#whats-not-in-this-document)
 - [Goal-Oriented approach](#goal-oriented-approach)
 - [Highest-Level Goals or "Why Do This?"](#highest-level-goals-or-why-do-this)
-   * [NOTE!](#note)
+   * [NOTE](#note)
    * [Achieved by](#achieved-by)
 - [Phase "before the shooting"](#phase-before-the-shooting)
    * [Goals](#goals)
@@ -13,7 +13,7 @@
 - [Phase "by the shooting"](#phase-by-the-shooting)
    * [Goals](#goals-1)
    * [Achieved by](#achieved-by-2)
-      + [NOTE!](#note-1)
+      + [NOTE](#note-1)
 - [Phase "select"](#phase-select)
    * [Goals](#goals-2)
    * [Achieved by](#achieved-by-3)
@@ -71,7 +71,7 @@ In the case of taking photos, the following high-level goals are applied
 3. Preserving memories
 
 <!-- TOC --><a name="note"></a>
-## NOTE!
+## NOTE
 Highest-level goals should be defined first, before any initiation or acquisition of hardware or software equipment. Also note that artistic value is - and will remain - a very important goal. However, in this example, it serves the higher-level goals, particularly joy.
 
 <!-- TOC --><a name="achieved-by"></a>
@@ -92,7 +92,7 @@ Highest-level goals should be defined first, before any initiation or acquisitio
 <!-- TOC --><a name="goals"></a>
 ## Goals
 1. Identify the best motif
-1. Joy for all participants during walks or hikes with others
+1. Joy for all participants during walks or hikes
 
 <!-- TOC --><a name="achieved-by-1"></a>
 ## Achieved by
@@ -118,7 +118,7 @@ When photographing, for example, a passing train, choose the best perspective be
 1. Use bulk deletion to remove the remaining photos on the camera in one action
 
 <!-- TOC --><a name="note-1"></a>
-### NOTE!
+### NOTE
 A motif should not be repeated. For example, when photographing a child in different poses, only the best pose, gaze, background blur,  lighting and shadows, etc. should be kept. The rest should be deleted.
 
 <!-- TOC --><a name="phase-select"></a>
@@ -151,13 +151,13 @@ Before processing, the source photos should be bulk renamed, for example, in the
 
 Example:
 
-Given multiple source files from `IMGP8990.DNG` to `IMGP9001.DNG`, after bulk renaming, the source files will be renamed as follows:
+Given multiple source files from `IMGP8990.DNG` till `IMGP9001.DNG`, after bulk renaming, the source files will be renamed as follows:
 
-From:
+from
 
 `2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp8990.dng` 
 
-To: 
+till
 
 `2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001.dng`
 
@@ -180,7 +180,7 @@ For the source file:
 
 the resulting output will be:
 
-`2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001.jpg` 
+`2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001.jpg`
 
 This output is the resulting (or “final”) photo, generally ready for publication. Additional publishing actions are likely when preparing the photo for a print or a social media channel.
 
@@ -230,7 +230,7 @@ and, if applicable, its profile can then be renamed as follows
 
 <!-- TOC --><a name="achieved-by-7"></a>
 ### Achieved by
-1. Omitting the date from the final photo if it’s not safe to publish
+1. Omitting the shooting date from the final photo if it’s not safe to publish
 1. Omitting the location from the final photo if it’s not safe to publish
-1. Postponing the publication date if the visit occurs on predictable days, such as annual holidays, celebrations, or recurring visits to relatives
+1. Postponing the publication date if the visit occurs for example on the same days of the year, such as annual holidays, celebrations, or recurring visits to relatives
 1. Carefully considering whether to publish photos that include children
