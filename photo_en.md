@@ -232,5 +232,5 @@ and, if applicable, its profile can then be renamed as follows
 ### Achieved by
 1. Omitting the shooting date from the final photo if it’s not safe to publish
 1. Omitting the location from the final photo if it’s not safe to publish
-1. Postponing the publication date if the visit occurs for example on the same days of the year, such as annual holidays, celebrations, or recurring visits to relatives
+1. Postponing the publication date if e.g. the visit of relatives occurs on the same days of the year, such as annual holidays or celebrations
 1. Carefully considering whether to publish photos that include children
