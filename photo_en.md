@@ -91,16 +91,16 @@ Highest-level goals should be defined first, before any initiation or acquisitio
 
 <!-- TOC --><a name="goals"></a>
 ## Goals
-1. Identify the best motif
+1. Identify the best motif, its best perspective - and, if applicable, the best lighting
 1. Joy for all participants during walks or hikes
 
 <!-- TOC --><a name="achieved-by-1"></a>
 ## Achieved by
-Identify the best background motif (within the blur). Determine the optimal level of background blur for that motif.
+Choose the ideal perspective for photographing the main subject to ensure the most pleasing (blurred) background and, if applicable, the best lighting. The appropriate degree of background blur is also selected for the subject.
 
-When walking or hiking with others, minimize the need for spontaneous waiting. Remember which motifs require them to pause, and inform them in advance. Try to stay with the (sub)group to avoid missing out on conversations.
+When walking or hiking with other persons, minimize the need for spontaneous waiting. Remember which motifs require them to pause, and inform them in advance. Try to stay with the (sub)group to avoid missing out on conversations.
 
-When photographing fast-moving subjects (e.g. dance or sports) or quickly transitioning scenes (e.g. blowing on a dandelion), use continuous shooting. Trigger it slightly before the key movement or transition begins. Note that some cameras support automatic premature continuous shooting, such as while focusing on the subject.
+When photographing fast-moving subjects (e.g. dance or sports) or (quickly) transitioning subjects (e.g. blowing on a dandelion), use continuous shooting. Trigger it slightly before the key movement or transition begins. Note that some cameras support automatic premature continuous shooting, such as while focusing on the subject.
 
 When photographing, for example, a passing train, choose the best perspective before the action starts.
 
@@ -151,7 +151,7 @@ Before processing, the source photos should be bulk renamed, for example, in the
 
 Example:
 
-Given multiple source files from `IMGP8990.DNG` till `IMGP9001.DNG`, after bulk renaming, the source files will be renamed as follows:
+Given multiple source files from `IMGP8990.DNG` till `IMGP9001.DNG`. After bulk renaming, the source files will be renamed as follows:
 
 from
 
@@ -163,7 +163,10 @@ till
 
 The description and the addition are optional. In the example above, the addition was omitted.
 
-Note that bulk renaming is done by the appropriate software in one action, rather than manually renaming each file individually. Depending on the operating system and desktop environment, this software might be integrated into the file manager.
+Note that when using bulk renaming the selected files are renamed in a single, quick step. 
+This eliminates the need to manually rename each file one by one.
+Depending on the operating system and desktop environment, bulk renaming may be directly 
+supported by the file manager. If not, additional software is required.
 
 <!-- TOC --><a name="processing-the-source-photos"></a>
 ### Processing the source photos
@@ -174,7 +177,7 @@ weakening or removing colors that clash with the overall composition. A common e
 
 Assuming the source files have meaningful names - for example, through the use of bulk renaming software - each process (by-)output file will then automatically carry the same meaningful name as its source file, with the appropriate extension (e.g. .jpg, .pp3, .jpg.out.pp3 or any other format depending on the by-output and the processing software used).
 
-For the source file:
+For example for the source file:
 
 `2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001.dng`
 

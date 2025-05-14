@@ -66,7 +66,7 @@ Das Thema Entwicklung, Bearbeitung und Auswahl mit KI liegt ebenfalls außerhalb
 
 <!-- TOC --><a name="nutzenorientierter-ansatz"></a>
 # Nutzenorientierter Ansatz
-Untergeordnete Ziele innerhalb einer Phase (in diesem Dokument ‚Nutzen‘ genannt) dienen dem Erreichen der obersten Ziele. Ein untergeordnetes Ziel kann durch ein anderes ersetzt werden, wenn dieses das übergeordnete Ziel besser erfüllt. Wenn eine Prozessphase keinen Nutzen hat, sollte sie aus dem Prozess entfernt oder entsprechend angepasst bzw. verbessert werden. Ebenso kann ein Schritt, der auf das Erreichen eines Phasenziels abzielt, durch eine effizientere Alternative ersetzt werden.
+Untergeordnete Ziele innerhalb einer Phase (in diesem Dokument "Nutzen" genannt) dienen dem Erreichen der obersten Ziele. Ein untergeordnetes Ziel kann durch ein anderes ersetzt werden, wenn dieses das übergeordnete Ziel besser erfüllt. Wenn eine Prozessphase keinen Nutzen hat, sollte sie aus dem Prozess entfernt oder entsprechend angepasst bzw. verbessert werden. Ebenso kann ein Schritt, der auf das Erreichen eines Phasenziels abzielt, durch eine effizientere Alternative ersetzt werden.
 
 <!-- TOC --><a name="oberste-ziele-oder-warum-das-ganze"></a>
 # Oberste Ziele oder "Warum das Ganze?"
@@ -101,16 +101,17 @@ Die obersten Ziele sollten zuerst definiert werden – noch bevor mit dem Prozes
 # Phase "vor dem Fotografieren"
 <!-- TOC --><a name="nutzen"></a>
 ## Nutzen
-1. Es wird das beste Motiv gefunden
+1. Es wird das beste Motiv und dessen beste Perspektive ggf. Belichtung gefunden
 2. Freude für alle Teilnehmenden bei Spaziergängen oder Wanderungen
 
 <!-- TOC --><a name="umsetzung-1"></a>
 ## Umsetzung
-Das beste Hintergrundmotiv (innerhalb der Unschärfe) identifizieren. Den optimalen Grad der Hintergrundunschärfe für dieses Motiv bestimmen.
+Die Perspektive für das Hauptmotiv wird so ausgewählt, dass das Hauptmotiv das bestmögliche Hintergrundmotiv (innerhalb der Unschärfe) sowie gegebenenfalls die schönste Belichtung erhält. Außerdem wird der beste Grad der Hintergrundunschärfe für dieses Motiv festgestellt.
 
-Beim Spazierengehen oder Wandern mit anderen sollte spontanes Warten möglichst vermieden werden. Motive, bei denen andere warten müssen, merken und die Gruppe rechtzeitig informieren. Nach Möglichkeit in der (Unter-)Gruppe bleiben, um die Unterhaltung nicht zu verpassen.
+Beim Spazierengehen oder Wandern mit anderen Personen sollte spontanes Warten möglichst vermieden werden. Motive, bei denen andere warten müssen, werden gemerkt und die Personen rechtzeitig informiert. Man versucht in der (Unter-)Gruppe zu bleiben, 
+um die Unterhaltung nicht zu verpassen.
 
-Beim Fotografieren von sich schnell bewegenden Motiven (z. B. Tanz oder Sport) oder schnell wechselnden Zuständen (z. B. Pusten auf eine Pusteblume) Serienaufnahme verwenden. Diese kurz vor Beginn der entscheidenden Bewegung oder des Zustandswechsels auslösen. Manche Kameras unterstützen eine automatische vorzeitige  Serienaufnahme, z. B. während des Fokussierens auf das Objekt.
+Beim Fotografieren von sich schnell bewegenden Objekten (z. B. Tanz oder Sport) oder (schnell) wechselnden Zuständen (z. B. Pusten auf eine Pusteblume) wird Serienaufnahme verwendet. Diese wird kurz vor Beginn der entscheidenden Bewegung oder des Zustandswechsels ausgelöst. Manche Kameras unterstützen eine automatische vorzeitige  Serienaufnahme, z. B. während des Fokussierens auf das Objekt.
 
 Beim Fotografieren eines vorbeifahrenden Zuges sollte die beste Perspektive bereits vor dem Beginn des Geschehens ausgewählt werden.
 
@@ -169,7 +170,8 @@ bis
 
 Die Beschreibung und die Extrabeschreibung sind optional. Im obigen Beispiel wurde die Extrabeschreibung weggelassen.
 
-Die Massenumbenennung durch die entsprechende Software wird in einem Schritt durchgeführt, anstatt jede Datei manuell einzeln umzubenennen. Je nach Betriebssystem und Desktop-Umgebung kann diese Software in den jeweiligen Dateimanager integriert sein.
+Durch eine Massenumbenennung werden die ausgewählten Dateien in einem einzigen, schnellen Schritt umbenannt. Das erspart das manuelle Umbenennen jeder einzelnen Datei.
+Je nach Betriebssystem und Desktop-Umgebung kann die Massenumbenennung direkt vom jeweiligen Dateimanager unterstützt werden. Falls dies nicht der Fall ist, wird dafür eine zusätzliche Software benötigt.
 
 <!-- TOC --><a name="digitale-entwicklung"></a>
 ### Digitale Entwicklung
@@ -177,9 +179,9 @@ Jedes Quellfoto wird mit einer Software entwickelt, die automatisch ein benutzer
 
 Nur die repräsentativsten Fotos werden in Farbe entwickelt. In solchen Fällen können Farben harmonisiert werden – beispielsweise, indem störende Farben abgeschwächt oder entfernt werden. Ein typisches Beispiel sind grell-orange, -gelbe oder -blaue Jacken, die idR nicht in ein Natur- oder Architekturmotiv passen. Diese Farben werden dann entweder abgeschwächt oder durch die jeweilige Schwarz-Weiß-Version ersetzt.
 
-Die bei der Entwicklung aus den Quellfotos resultierenden Dateien bekommen automatisch denselben Namen wie das jeweilige Quellfoto. Deshalb ist es sinnvoll vor dem Entwickeln Quellfotos umzubenennen, z.B. durch eine Massenumbenennung. Je nach verwendeter Software kann die Erweiterung einer resultierenden Datei z. B. .jpg, .pp3, .jpg.out.pp3 oder eine andere sein.
+Die bei der Entwicklung aus den Quellfotos resultierenden Dateien bekommen automatisch denselben Namen wie das jeweilige Quellfoto. Deshalb ist es sinnvoll vor dem Entwickeln Quellfotos umzubenennen, z.B. durch eine Massenumbenennung. Je nach verwendeter Software für die Entwicklung kann die Erweiterung einer resultierenden Datei bzw. einer Begleitdatei z.B. .jpg, .pp3, .jpg.out.pp3 oder eine andere sein.
 
-Für die Quelldatei
+Beispielsweise für die Quelldatei
 
 `2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001.dng`
 
@@ -194,9 +196,9 @@ Je nach verwendeter Software können beim Entwickeln Begleitdateien entstehen, z
 
 `2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001.jpg.out.pp3` 
 
-Bei dieser Begleitdatei geht es um das finale Profil  (das automatische Entwicklungsprofil mit evtl. individuellen Anpassungen), das beim Entwickeln verwendet wurde.
+Bei dieser Begleitdatei geht es um das finale Profil  (das automatisch angewendete Profil mit evtl. individuellen Anpassungen), das beim Entwickeln verwendet wurde.
 
-Es kann komplexe Fälle geben, etwa wenn mehrere resultierende Fotos aus derselben Quelle zu einem einzigen finalen Foto kombiniert werden. Abhängig von der verwendeten Software zur Entwicklung einer Quelldatei und zum Kombinieren mehrerer Fotos kann es vorkommen, dass das eine oder sogar mehrere Begleitdateien dieselbe Dateierweiterung wie das resultierende Foto haben. In solchen Fällen kann ein Extraname sinnvoll sein – zum Beispiel:
+Es kann komplexe Fälle geben, etwa wenn mehrere resultierende Fotos aus derselben Quelle zu einem einzigen finalen Foto kombiniert werden. Abhängig von der verwendeten Software zur Entwicklung einer Quelldatei und zum Kombinieren mehrerer Fotos kann es vorkommen, dass das eine oder sogar mehrere Begleitdateien dieselbe Dateierweiterung wie das resultierende Foto haben. In solchen Fällen kann eine Extrabeschreibung sinnvoll sein – zum Beispiel:
 
 `2025-04-13_de_altdorf_prackenfels+teufelshoehle_imgp9001_color-layer.jpg` 
 
