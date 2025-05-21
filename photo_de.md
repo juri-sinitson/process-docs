@@ -3,36 +3,36 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Über dieses Dokument](#über-dieses-dokument)
-   * [Motivation](#motivation)
-   * [Was ist nicht Teil dieses Dokuments?](#was-ist-nicht-teil-dieses-dokuments)
+  - [Motivation](#motivation)
+  - [Was ist nicht Teil dieses Dokuments?](#was-ist-nicht-teil-dieses-dokuments)
 - [Nutzenorientierter Ansatz](#nutzenorientierter-ansatz)
 - [Oberste Ziele oder "Warum das Ganze?"](#oberste-ziele-oder-warum-das-ganze)
-   * [HINWEIS](#hinweis)
-   * [Umsetzung](#umsetzung)
+  - [HINWEIS](#hinweis)
+  - [Umsetzung](#umsetzung)
 - [Phase "vor dem Fotografieren"](#phase-vor-dem-fotografieren)
-   * [Nutzen](#nutzen)
-   * [Umsetzung](#umsetzung-1)
+  - [Nutzen](#nutzen)
+  - [Umsetzung](#umsetzung-1)
 - [Phase "neben dem Fotografieren"](#phase-neben-dem-fotografieren)
-   * [Nutzen](#nutzen-1)
-   * [Umsetzung](#umsetzung-2)
-   * [HINWEIS](#hinweis-1)
+  - [Nutzen](#nutzen-1)
+  - [Umsetzung](#umsetzung-2)
+  - [HINWEIS](#hinweis-1)
 - [Phase "Auswahl"](#phase-auswahl)
-   * [Nutzen](#nutzen-2)
-   * [Umsetzung](#umsetzung-3)
+  - [Nutzen](#nutzen-2)
+  - [Umsetzung](#umsetzung-3)
 - [Phase "digitale Entwicklung"](#phase-digitale-entwicklung)
-   * [Nutzen](#nutzen-3)
-   * [Umsetzung](#umsetzung-4)
-      + [Massenumbenennung](#massenumbenennung)
-      + [Digitale Entwicklung](#digitale-entwicklung)
+  - [Nutzen](#nutzen-3)
+  - [Umsetzung](#umsetzung-4)
+    - [Massenumbenennung](#massenumbenennung)
+    - [Digitale Entwicklung](#digitale-entwicklung)
 - [Phase "speichern"](#phase-speichern)
-   * [Nutzen](#nutzen-4)
-   * [Umsetzung](#umsetzung-5)
+  - [Nutzen](#nutzen-4)
+  - [Umsetzung](#umsetzung-5)
 - [Phase "veröffentlichen"](#phase-veröffentlichen)
-   * [Nutzen](#nutzen-5)
-   * [Umsetzung](#umsetzung-6)
-   * [Sicherheitsaspekte bei sozialen Medien](#sicherheitsaspekte-bei-sozialen-medien)
-      + [Ziele](#ziele)
-      + [Umsetzung](#umsetzung-7)
+  - [Nutzen](#nutzen-5)
+  - [Umsetzung](#umsetzung-6)
+  - [Sicherheitsaspekte bei sozialen Medien](#sicherheitsaspekte-bei-sozialen-medien)
+    - [Ziele](#ziele)
+    - [Umsetzung](#umsetzung-7)
 
 <!-- TOC end -->
 
@@ -67,6 +67,8 @@ Das Thema Entwicklung, Bearbeitung und Auswahl mit KI liegt ebenfalls außerhalb
 <!-- TOC --><a name="nutzenorientierter-ansatz"></a>
 # Nutzenorientierter Ansatz
 Untergeordnete Ziele innerhalb einer Phase (in diesem Dokument "Nutzen" genannt) dienen dem Erreichen der obersten Ziele. Ein untergeordnetes Ziel kann durch ein anderes ersetzt werden, wenn dieses das übergeordnete Ziel besser erfüllt. Wenn eine Prozessphase keinen Nutzen hat, sollte sie aus dem Prozess entfernt oder entsprechend angepasst bzw. verbessert werden. Ebenso kann ein Schritt, der auf das Erreichen eines Phasenziels abzielt, durch eine effizientere Alternative ersetzt werden.
+
+Aufgrund der ausgeprägten Zielorientierung und eines gewissen Automatisierungsgrads steht dieser Ansatz in engem Einklang mit zentralen Prinzipien von **ITIL4** (insbesondere **Focus on Value** und **Optimize and Automate**) sowie von **PRINCE2 Agile** (vor allem **Focus on Products** und **Business Case**).
 
 <!-- TOC --><a name="oberste-ziele-oder-warum-das-ganze"></a>
 # Oberste Ziele oder "Warum das Ganze?"

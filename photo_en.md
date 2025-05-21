@@ -1,36 +1,36 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [About this document](#about-this-document)
-   * [Motivation](#motivation)
-   * [What's not in this document?](#whats-not-in-this-document)
+  - [Motivation](#motivation)
+  - [What's not in this document?](#whats-not-in-this-document)
 - [Goal-Oriented approach](#goal-oriented-approach)
 - [Highest-Level Goals or "Why Do This?"](#highest-level-goals-or-why-do-this)
-   * [NOTE](#note)
-   * [Achieved by](#achieved-by)
+  - [NOTE](#note)
+  - [Achieved by](#achieved-by)
 - [Phase "before the shooting"](#phase-before-the-shooting)
-   * [Goals](#goals)
-   * [Achieved by](#achieved-by-1)
+  - [Goals](#goals)
+  - [Achieved by](#achieved-by-1)
 - [Phase "by the shooting"](#phase-by-the-shooting)
-   * [Goals](#goals-1)
-   * [Achieved by](#achieved-by-2)
-      + [NOTE](#note-1)
+  - [Goals](#goals-1)
+  - [Achieved by](#achieved-by-2)
+    - [NOTE](#note-1)
 - [Phase "select"](#phase-select)
-   * [Goals](#goals-2)
-   * [Achieved by](#achieved-by-3)
+  - [Goals](#goals-2)
+  - [Achieved by](#achieved-by-3)
 - [Phase "processing"](#phase-processing)
-   * [Goals](#goals-3)
-   * [Achieved by](#achieved-by-4)
-      + [Bulk renaming](#bulk-renaming)
-      + [Processing the source photos](#processing-the-source-photos)
+  - [Goals](#goals-3)
+  - [Achieved by](#achieved-by-4)
+    - [Bulk renaming](#bulk-renaming)
+    - [Processing the source photos](#processing-the-source-photos)
 - [Phase "store"](#phase-store)
-   * [Goals](#goals-4)
-   * [Achieved by](#achieved-by-5)
+  - [Goals](#goals-4)
+  - [Achieved by](#achieved-by-5)
 - [Phase "publish"](#phase-publish)
-   * [Goals](#goals-5)
-   * [Achieved by](#achieved-by-6)
-   * [Security considerations for social media](#security-considerations-for-social-media)
-      + [Goals](#goals-6)
-      + [Achieved by](#achieved-by-7)
+  - [Goals](#goals-5)
+  - [Achieved by](#achieved-by-6)
+  - [Security considerations for social media](#security-considerations-for-social-media)
+    - [Goals](#goals-6)
+    - [Achieved by](#achieved-by-7)
 
 <!-- TOC end -->
 
@@ -61,6 +61,10 @@ The topic of processing, editing and selecting with AI is also beyond the scope 
 <!-- TOC --><a name="goal-oriented-approach"></a>
 # Goal-Oriented approach
 Lower-level goals within the process serve to support higher-level goals. A lower-level goal may be replaced by another if it serves the higher-level goal more effectively. If a process phase no longer has any goals, it should be removed from the process or modified/improved accordingly. Similarly, a step aimed at achieving a phase goal may be replaced with a more efficient alternative.
+
+Due to its strong goal orientation and a certain degree of automation, this approach aligns closely 
+with several core principles of **ITIL4** (particularly **focus on value** and **optimize and automate**) 
+and **PRINCE2 Agile** (especially **focus on products** and **business case**).
 
 <!-- TOC --><a name="highest-level-goals-or-why-do-this"></a>
 # Highest-Level Goals or "Why Do This?"
