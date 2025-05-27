@@ -68,7 +68,7 @@ Das Thema Entwicklung, Bearbeitung und Auswahl mit KI liegt ebenfalls außerhalb
 # Nutzenorientierter Ansatz
 Untergeordnete Ziele innerhalb einer Phase (in diesem Dokument "Nutzen" genannt) dienen dem Erreichen der obersten Ziele. Ein untergeordnetes Ziel kann durch ein anderes ersetzt werden, wenn dieses das übergeordnete Ziel besser erfüllt. Wenn eine Prozessphase keinen Nutzen hat, sollte sie aus dem Prozess entfernt oder entsprechend angepasst bzw. verbessert werden. Ebenso kann ein Schritt, der auf das Erreichen eines Phasenziels abzielt, durch eine effizientere Alternative ersetzt werden.
 
-Aufgrund der ausgeprägten Zielorientierung und eines gewissen Automatisierungsgrads steht dieser Ansatz in engem Einklang mit zentralen Prinzipien von **ITIL4** (insbesondere **Focus on Value** und **Optimize and Automate**) sowie von **PRINCE2 Agile** (vor allem **Focus on Products** und **Business Case**).
+Aufgrund der ausgeprägten Zielorientierung und eines gewissen Automatisierungsgrads steht dieser Ansatz in engem Einklang mit zentralen Prinzipien von **ITIL4** (insbesondere **Focus on Value**, **Optimize and Automate** und **Keep it Simple and Practical**) sowie von **PRINCE2 Agile** (vor allem **Focus on Products** und **Business Case**).
 
 <!-- TOC --><a name="oberste-ziele-oder-warum-das-ganze"></a>
 # Oberste Ziele oder "Warum das Ganze?"

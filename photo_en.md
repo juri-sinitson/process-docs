@@ -63,7 +63,7 @@ The topic of processing, editing and selecting with AI is also beyond the scope 
 Lower-level goals within the process serve to support higher-level goals. A lower-level goal may be replaced by another if it serves the higher-level goal more effectively. If a process phase no longer has any goals, it should be removed from the process or modified/improved accordingly. Similarly, a step aimed at achieving a phase goal may be replaced with a more efficient alternative.
 
 Due to its strong goal orientation and a certain degree of automation, this approach aligns closely 
-with several core principles of **ITIL4** (particularly **focus on value** and **optimize and automate**) 
+with several core principles of **ITIL4** (particularly **focus on value**, **optimize and automate** and **keep it simple and practical**) 
 and **PRINCE2 Agile** (especially **focus on products** and **business case**).
 
 <!-- TOC --><a name="highest-level-goals-or-why-do-this"></a>
